@@ -1,0 +1,362 @@
+[
+    {
+        "condition_id": "V01_C01",
+        "video_file": "./videos/study/V01.mp4",
+        "caption": "Two people play one-on-one basketball on an outdoor court at sunset, with trees and hills in the background. They dribble, defend, and take shots at the hoop as the camera stays fixed on the action.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V01_C02",
+        "video_file": "./videos/study/V01.mp4",
+        "caption": "Two people are playing one-on-one basketball on an outdoor asphalt court surrounded by lush green hills. A man in a blue shirt drives past a defender in a white shirt to take a shot before the opposing player recovers the ball and dribbles back out.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V01_C03",
+        "video_file": "./videos/study/V01.mp4",
+        "caption": "Two people are playing basketball on an outdoor court. The person in the white shirt is dribbling the ball and attempting to score.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V01_C04",
+        "video_file": "./videos/study/V01.mp4",
+        "caption": "two people playing basketball on an outdoor court. a basketball court. two men playing basketball on a court. two people playing basketball.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V02_C01",
+        "video_file": "./videos/study/V02.mp4",
+        "caption": "The video shows a close-up of burning logs in a fire, with bright orange and yellow flames flickering around the wood. Glowing embers and charred pieces create a warm, intense campfire-like scene.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V02_C02",
+        "video_file": "./videos/study/V02.mp4",
+        "caption": "Bright orange flames flicker over burning wooden logs in a campfire set against a dark background. The glowing embers light up the textured wood as the fire steadily burns throughout the clip.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V02_C03",
+        "video_file": "./videos/study/V02.mp4",
+        "caption": "The video shows a close-up of a campfire burning with flames dancing over pieces of wood. The fire is intense, with bright orange and yellow flames consuming the logs.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V02_C04",
+        "video_file": "./videos/study/V02.mp4",
+        "caption": "a close up of a fire with flames. a close up of a fire with logs and flames. a close up of a fire with flames and wood.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V03_C01",
+        "video_file": "./videos/study/V03.mp4",
+        "caption": "A man in a navy suit talks with a woman in a bright, modern indoor walkway or atrium. They appear to be having a professional conversation while standing beside a railing.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V03_C02",
+        "video_file": "./videos/study/V03.mp4",
+        "caption": "A bearded man wearing a suit stands leaning against a railing on an upper level of a modern building, conversing warmly with a woman standing opposite him. He smiles and gestures slightly as he listens and speaks to her during their casual conversation.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V03_C03",
+        "video_file": "./videos/study/V03.mp4",
+        "caption": "The video features a man and a woman engaged in a conversation in a modern, well-lit building. The man, dressed in a dark blue suit and white shirt, stands on a balcony, while the woman, wearing a green top and large hoop earrings, faces him. The background includes large windows and a glass railing, suggesting a contemporary architectural style. The man appears to be speaking, with his hands gesturing slightly, while the woman listens attentively.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V03_C04",
+        "video_file": "./videos/study/V03.mp4",
+        "caption": "a man and woman talking in an office building. a man and woman standing in an office hallway. a man and woman standing in an office building.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V04_C01",
+        "video_file": "./videos/study/V04.mp4",
+        "caption": "Two people perform a playful, choreographed dance against a warm orange backdrop, moving through spins, embraces, and partnered poses. At one point, the man lifts the woman before they return to dancing hand in hand.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V04_C02",
+        "video_file": "./videos/study/V04.mp4",
+        "caption": "A man with blonde curly hair and a woman with long dark hair perform a expressive contemporary dance together in front of a warm, peach-colored background. They execute fluid turns, gentle dips, and coordinated hand-to-hand partner movements throughout their routine.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V04_C03",
+        "video_file": "./videos/study/V04.mp4",
+        "caption": "A man and a woman are dancing together. The man is wearing a blue shirt and white pants, while the woman is wearing a white top and blue pants.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V04_C04",
+        "video_file": "./videos/study/V04.mp4",
+        "caption": "a close up of a glass of wine. a man and woman are dancing in a studio. a woman in a blue dress is standing on one leg. a woman is holding a cup of coffee.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V05_C01",
+        "video_file": "./videos/study/V05.mp4",
+        "caption": "The video shows a person sitting outdoors and sketching a portrait in a notebook resting on their lap. The close-up focuses on their hand as they gradually add details to the face with a pencil.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V05_C02",
+        "video_file": "./videos/study/V05.mp4",
+        "caption": "A person sits outdoors in a vibrant garden, sketching a detailed portrait of a face into an open notebook. They carefully add fine pencil lines to the drawing while resting comfortably with their feet up.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V05_C03",
+        "video_file": "./videos/study/V05.mp4",
+        "caption": "A person is drawing a portrait in a sketchbook while sitting outdoors in a garden. The background features lush green plants and red flowers, creating a serene and vibrant setting.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V05_C04",
+        "video_file": "./videos/study/V05.mp4",
+        "caption": "a person sitting on a bench with a pen and paper.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V06_C01",
+        "video_file": "./videos/study/V06.mp4",
+        "caption": "The video shows an extreme close-up of a blond, blue-eyed man looking directly into the camera against a dark background. His expression remains calm and mostly neutral, with only subtle movements in his eyes and facial muscles.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V06_C02",
+        "video_file": "./videos/study/V06.mp4",
+        "caption": "A close-up shot captures a man with curly blonde hair and bright blue eyes gazing directly forward. He maintains a calm, subtle expression against a dark background throughout the clip.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V06_C03",
+        "video_file": "./videos/study/V06.mp4",
+        "caption": "The video features a close-up of a man's face, focusing on his eyes and facial features. The man has light blue eyes and curly blonde hair, and he is looking directly at the camera. The background is a solid dark color, providing a stark contrast to the man's light skin and hair.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V06_C04",
+        "video_file": "./videos/study/V06.mp4",
+        "caption": "a close up of a man with blonde hair.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V07_C01",
+        "video_file": "./videos/study/V07.mp4",
+        "caption": "The video shows a close-up of a fountain, with several streams of water shooting upward and splashing back down. Warm sunlight shines through the water, with green grass, trees, and a bench visible in the background.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V07_C02",
+        "video_file": "./videos/study/V07.mp4",
+        "caption": "Streams of water shoot upward from a park fountain, backlit by soft, warm sunlight. In the background, a curved wooden bench sits empty near a green lawn and trees.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V07_C03",
+        "video_file": "./videos/study/V07.mp4",
+        "caption": "The video shows a fountain with water jets spraying upwards, creating a dynamic and visually appealing display. The background features a park setting with green grass and trees, and a bench is visible behind the fountain.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V07_C04",
+        "video_file": "./videos/study/V07.mp4",
+        "caption": "a fountain with water spraying out of it.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V08_C01",
+        "video_file": "./videos/study/V08.mp4",
+        "caption": "A woman sits in a recording studio, playing an acoustic guitar and singing into a suspended microphone. Audio equipment and a mixing console surround her as she performs.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V08_C02",
+        "video_file": "./videos/study/V08.mp4",
+        "caption": "A young blonde woman sits inside a recording studio holding an acoustic guitar in front of a studio microphone. She strums the instrument and sings expressively while looking upward throughout the video.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V08_C03",
+        "video_file": "./videos/study/V08.mp4",
+        "caption": "A woman is playing a guitar in a recording studio. She is singing into a microphone while playing the guitar.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V08_C04",
+        "video_file": "./videos/study/V08.mp4",
+        "caption": "a woman playing an acoustic guitar in a recording studio.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V09_C01",
+        "video_file": "./videos/study/V09.mp4",
+        "caption": "The video shows an older man with glasses seated in a studio, speaking to an interviewer who is partially visible in the foreground. He wears a checkered short-sleeve shirt and gestures subtly with his hands against a blue-lit background.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V09_C02",
+        "video_file": "./videos/study/V09.mp4",
+        "caption": "An older man in glasses and a short-sleeved plaid shirt sits in a studio setting, facing an interviewer who is visible in silhouette. He gestures with his hands as he speaks attentively throughout the conversation.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V09_C03",
+        "video_file": "./videos/study/V09.mp4",
+        "caption": "The video shows a man in a checkered shirt sitting in a studio setting, engaged in a conversation with another person. The background features a blue grid pattern and a professional lighting setup.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V09_C04",
+        "video_file": "./videos/study/V09.mp4",
+        "caption": "an older man sitting in a chair with a camera in front of him. an older man sitting in a chair with a microphone. an older man sitting in a chair with a camera.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V10_C01",
+        "video_file": "./videos/study/V10.mp4",
+        "caption": "The video shows finely chopped onions being cooked in oil in a large metal wok. A wooden spatula stirs the onions as they soften and become translucent.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V10_C02",
+        "video_file": "./videos/study/V10.mp4",
+        "caption": "Finely chopped white onions are poured into hot oil inside a large metallic wok or pan. They sizzle and release steam as a wooden spatula stirs them evenly around the pan.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V10_C03",
+        "video_file": "./videos/study/V10.mp4",
+        "caption": "In this video, chopped onions are being cooked in a pan. The onions are being stirred with a wooden spoon.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V10_C04",
+        "video_file": "./videos/study/V10.mp4",
+        "caption": "a close up of a silver pot with a hole in it. a wooden spoon stirring a mixture of onions in a bowl. a wooden spoon is stirring onions in a bowl. onions in a silver bowl on a stove top.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V11_C01",
+        "video_file": "./videos/study/V11.mp4",
+        "caption": "A man at an outdoor skate park gets up and runs toward a metal ramp, attempting to jump and move across it. He loses his balance, slides down the ramp, and ends up sitting on it.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V11_C02",
+        "video_file": "./videos/study/V11.mp4",
+        "caption": "A young man stretches and warms up while sitting on a curb beside an outdoor sports court. He then takes a running start toward a skate park ramp, executes a mid-air backflip, and vaults smoothly over the obstacle before landing on his feet.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V11_C03",
+        "video_file": "./videos/study/V11.mp4",
+        "caption": "A man is sitting on the ground and then he stands up and runs. He jumps on a ramp and falls down.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V11_C04",
+        "video_file": "./videos/study/V11.mp4",
+        "caption": "a man sitting on the ground with his shoes on. a man standing in front of a fence with a basketball court. a man on a skateboard. a man is riding a skateboard on a ramp.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V12_C01",
+        "video_file": "./videos/study/V12.mp4",
+        "caption": "A person wearing a dark hoodie sits at a desk and works on a laptop in a dimly lit room. The scene is illuminated by a strong green background light, creating a moody, cinematic atmosphere.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V12_C02",
+        "video_file": "./videos/study/V12.mp4",
+        "caption": "A young man wearing a black hoodie sits alone at a desk in a dimly lit room, intensely typing on his laptop. The room is softly illuminated by a green light in the background, accentuating the focused mood as he works.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V12_C03",
+        "video_file": "./videos/study/V12.mp4",
+        "caption": "The video shows a person wearing a hoodie sitting at a desk and using a laptop. The room is dimly lit with a green light in the background.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V12_C04",
+        "video_file": "./videos/study/V12.mp4",
+        "caption": "a man in a hoodie sitting at a desk with a laptop. a man in a hoodie is using a laptop.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V13_C01",
+        "video_file": "./videos/study/V13.mp4",
+        "caption": "A young swan glides calmly across a lake in warm evening light, with trees reflected on the water behind it. Partway through the clip, it rises and flaps its wings before settling back down and continuing to swim.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V13_C02",
+        "video_file": "./videos/study/V13.mp4",
+        "caption": "A young swan glides peacefully across a calm lake surrounded by lush trees during dusk. Midway through, the swan stretches and flaps its wings, creating gentle ripples on the water before continuing to swim alongside other waterfowl.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V13_C03",
+        "video_file": "./videos/study/V13.mp4",
+        "caption": "A swan is swimming in the water. The swan flaps its wings.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V13_C04",
+        "video_file": "./videos/study/V13.mp4",
+        "caption": "two swans swimming in a lake with trees in the background. a swan is standing on the water with its wings spread. two swans swimming in a lake at sunset. swans swimming in a lake at sunset.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V14_C01",
+        "video_file": "./videos/study/V14.mp4",
+        "caption": "A man walks along a narrow path through lush greenery and yellow wildflowers. A red-and-white railway crossing sign stands prominently beside the path as he moves farther into the landscape.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V14_C02",
+        "video_file": "./videos/study/V14.mp4",
+        "caption": "A man wearing a beanie and patterned sweater walks along a dirt path in a lush, green forest past a wooden railway crossing sign. He pauses near the tracks to look out at the surrounding field before continuing his walk down the trail.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V14_C03",
+        "video_file": "./videos/study/V14.mp4",
+        "caption": "A man is walking on a dirt path in a lush, green area with yellow flowers. He is wearing a blue plaid shirt, light blue jeans, and a beige cap.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V14_C04",
+        "video_file": "./videos/study/V14.mp4",
+        "caption": "a man walking down a path with a red and white cross. a man standing on a path next to a railroad crossing. a man walking on a path next to a railroad crossing.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "V15_C01",
+        "video_file": "./videos/study/V15.mp4",
+        "caption": "A woman practices yoga outdoors on a rooftop or terrace, moving through a sequence of wide-legged lunges and side stretches on a mat. The scene is bright and peaceful, with potted plants, rooftops, and green hills in the background.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "V15_C02",
+        "video_file": "./videos/study/V15.mp4",
+        "caption": "A blonde woman in athletic wear practices yoga flow on a mat outside on a rooftop patio lined with potted plants. She transitions gracefully from standing warrior variations into side lunges while reaching her arm overhead.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "V15_C03",
+        "video_file": "./videos/study/V15.mp4",
+        "caption": "The video shows a woman practicing yoga on a rooftop garden. She performs a series of yoga poses, including a lunge, a side stretch, and a squat. The background features a variety of plants and a view of a hill and buildings.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "V15_C04",
+        "video_file": "./videos/study/V15.mp4",
+        "caption": "a woman in a yoga pose on a mat. a woman in a sports bra and shorts is doing yoga. a woman is doing yoga on a mat in the backyard. a woman is doing yoga on a mat outside.",
+        "model": "BLIP-2"
+    }
+]

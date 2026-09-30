@@ -1,0 +1,74 @@
+[
+    {
+        "condition_id": "T01_C01",
+        "video_file": "./videos/training/T01.mp4",
+        "caption": "A skateboarder rides around a small outdoor skate park, moving between ramps and the flat pavement. The scene is filmed from a low angle in the evening, with trees, parked cars, and skate ramps in the background.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "T01_C02",
+        "video_file": "./videos/training/T01.mp4",
+        "caption": "A young man wearing a striped shirt and a backwards cap rides his skateboard back and forth around ramps at an outdoor skatepark. He smoothly rides up and down the ramps while balancing and cruising across the paved ground.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "T01_C03",
+        "video_file": "./videos/training/T01.mp4",
+        "caption": "The video shows a man in a striped shirt and cap skateboarding in a parking lot with various obstacles and cars in the background. He performs several tricks, including grinding on rails and jumping off ramps.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "T01_C04",
+        "video_file": "./videos/training/T01.mp4",
+        "caption": "a man on a skateboard doing a trick on a ramp. a person riding a skateboard on a ramp. a man on a skateboard in a skate park. a man on a skateboard.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "T02_C01",
+        "video_file": "./videos/training/T02.mp4",
+        "caption": "The video shows a close-up of an older person’s hands knitting or sewing a mustard-yellow piece of fabric. Their hands carefully work the yarn and needle, repeatedly pulling the thread through the material.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "T02_C02",
+        "video_file": "./videos/training/T02.mp4",
+        "caption": "An elderly person carefully sews together the edges of a mustard-yellow knitted garment using a needle and matching yarn. Their deliberate hands pull the thread taut, steadily working along the seam of the fabric.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "T02_C03",
+        "video_file": "./videos/training/T02.mp4",
+        "caption": "The video shows a person knitting a yellow sweater, focusing on the hands and the knitting process. The person is wearing a dark blue sweater and is seated on a beige couch.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "T02_C04",
+        "video_file": "./videos/training/T02.mp4",
+        "caption": "an elderly woman is knitting a yellow sweater. an elderly woman knitting a yellow sweater. a person is knitting a yellow sweater.",
+        "model": "BLIP-2"
+    },
+    {
+        "condition_id": "T03_C01",
+        "video_file": "./videos/training/T03.mp4",
+        "caption": "At night, a cyclist rides along a dimly lit paved path beside a building lined with warm wall lights. The cyclist gradually approaches the camera, with the bicycle’s bright headlight illuminating the ground ahead.",
+        "model": "ChatGPT"
+    },
+    {
+        "condition_id": "T03_C02",
+        "video_file": "./videos/training/T03.mp4",
+        "caption": "A person rides a bicycle with a bright headlight down a paved alleyway at night. They navigate past a modern building illuminated by a row of warm wall lights before riding out of the frame.",
+        "model": "Gemini"
+    },
+    {
+        "condition_id": "T03_C03",
+        "video_file": "./videos/training/T03.mp4",
+        "caption": "A man is riding a bicycle down a dark street at night. The street is illuminated by small lights along the building on the right side.",
+        "model": "LLaVA-OneVision-2"
+    },
+    {
+        "condition_id": "T03_C04",
+        "video_file": "./videos/training/T03.mp4",
+        "caption": "a street at night with a few lights on the buildings. a person riding a bike down a street at night. a person riding a bike down a dark street at night. a man riding a bike down a dark alley at night.",
+        "model": "BLIP-2"
+    }
+]
